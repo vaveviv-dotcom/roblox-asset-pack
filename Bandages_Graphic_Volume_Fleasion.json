@@ -1,0 +1,13 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Bandages — graphic volume",
+      "replace_ids": [
+        136531752537290
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/vaveviv-dotcom/roblox-asset-pack/main/Bandages_136531752537290_graphic-volume.png"
+    }
+  ]
+}
